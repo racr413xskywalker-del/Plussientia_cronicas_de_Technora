@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://gsqideat16aa"
-path="res://.godot/imported/character-spritesheet.png-21e21fde0785e7cb0f9b35c6e26ff296.ctex"
+uid="uid://ehuewyneqgmd"
+path="res://.godot/imported/Sprite-Gound.png-a1076a45df43cd6d0d8baf66512723c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/sprites_personajes/Player1/character-spritesheet.png"
-dest_files=["res://.godot/imported/character-spritesheet.png-21e21fde0785e7cb0f9b35c6e26ff296.ctex"]
+source_file="res://Assets/Sprites/Sprites_naturaleza/Sprite-Gound.png"
+dest_files=["res://.godot/imported/Sprite-Gound.png-a1076a45df43cd6d0d8baf66512723c3.ctex"]
 
 [params]
 

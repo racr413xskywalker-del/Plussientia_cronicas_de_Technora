@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://gsqideat16aa"
-path="res://.godot/imported/character-spritesheet.png-21e21fde0785e7cb0f9b35c6e26ff296.ctex"
+uid="uid://btrp6fmfhku8q"
+path="res://.godot/imported/Sprite-nature_transparente.png-5bfbcf0635f153d5600868fca3c65008.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/sprites_personajes/Player1/character-spritesheet.png"
-dest_files=["res://.godot/imported/character-spritesheet.png-21e21fde0785e7cb0f9b35c6e26ff296.ctex"]
+source_file="res://Assets/Sprites/Sprites_naturaleza/Sprite-nature_transparente.png"
+dest_files=["res://.godot/imported/Sprite-nature_transparente.png-5bfbcf0635f153d5600868fca3c65008.ctex"]
 
 [params]
 
